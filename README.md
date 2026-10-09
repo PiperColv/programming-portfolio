@@ -2,7 +2,7 @@
 
 ![Calculator]([)](https://github.com/PiperColv/programming-portfolio/blob/main/images/Calc01.png)
 
-[Link to Source Code](https://github.com/PiperColv/programming-portfolio/tree/main/src/Calculator)
+[Link to Source Code](https://github.com/PiperColv/programming-portfolio/blob/main/src/Calculator/Calculator.pde)
 
 ## Overview
 [Write 2–3 sentences explaining what you are building
