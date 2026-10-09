@@ -1,6 +1,6 @@
 # OOP Calculator for Programming 1
 
-![Calculator]([)](https://github.com/PiperColv/programming-portfolio/blob/main/images/Calc01.png)
+![Calculator](https://github.com/PiperColv/programming-portfolio/blob/main/images/Calc01.png)
 
 [Link to Source Code](https://github.com/PiperColv/programming-portfolio/blob/main/src/Calculator/Calculator.pde)
 
