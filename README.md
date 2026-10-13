@@ -28,8 +28,7 @@ Mouse:
 [Explain how to use the buttons.]
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+All the number keys work along with +, -, =, C, sq root, %, +/-, and decimal
 
 ## Project Files
 [Identify the main sketch and other tabs or assets
