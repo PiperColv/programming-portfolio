@@ -28,7 +28,7 @@ Mouse:
 [Explain how to use the buttons.]
 
 Keyboard:
-All the number keys work along with +, -, =, C, sq root, %, +/-, and decimal
+All the number keys work, along with +, -, =, C, sq root, %, +/-, and decimal
 
 ## Project Files
 [Identify the main sketch and other tabs or assets
