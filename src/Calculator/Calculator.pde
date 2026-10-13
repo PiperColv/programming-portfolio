@@ -148,9 +148,9 @@ void keyPressed() {
     handleEvent('+', false);
   } else if (keyCode == 10) {
     handleEvent('=', false);
-  } else if (keyCode == 8) {
+  } else if (keyCode == 8) { // =/Enter
     handleEvent('C', false);
-  } else if (keyCode == 45) {
+  } else if (keyCode == 45) { // C/Backspace
     handleEvent('-', false);
   } else if (keyCode == 88) {
     handleEvent('x', false);
@@ -160,11 +160,11 @@ void keyPressed() {
     handleEvent('.', false);
   } else if (keyCode == 92) {
     handleEvent('±', false);
-  } else if (keyCode == 80) {
+  } else if (keyCode == 80) { // ±/Forward space 
     handleEvent('%', false);
-  } else if (keyCode == 83) {
+  } else if (keyCode == 83) { // %/P key
     handleEvent('√', false);
-  } else if (keyCode == 54) {
+  } else if (keyCode == 54) { // √/S key
     handleEvent('6', true);
   } else if (keyCode == 55) {
     handleEvent('7', true);
